@@ -1,2 +1,2 @@
 # roof_recognition
-Project for automatically detecting roofs on a tiny data set
+Pytorch project for automatically detecting roofs on a tiny data set
